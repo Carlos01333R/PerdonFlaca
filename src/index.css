@@ -16,6 +16,14 @@
 }
 
 
+body{
+  background-image: url('https://content.clara.es/medio/2022/11/21/frases-de-decepcion_ce8ea4a2_800x800.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
+}
 
 h1 {
   font-size: 3.2em;
